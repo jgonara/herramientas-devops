@@ -7,3 +7,5 @@ esfuerzos críticos pero que a menudo no están alineados. No se trata de una te
 específica, sino de un enfoque táctico. Al trabajar juntos, los equipos de desarrollo y operaciones
 pueden eliminar obstáculos y centrarse en mejorar la creación, la implementación y el
 monitoreo continuo del software.
+
+Prueba 2
